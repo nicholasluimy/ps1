@@ -6,7 +6,10 @@
  - Authors: CS3217
  - Date: 2018
  */
-struct Stack<T> {
+public struct Stack<T> {
+    
+    public init() {}
+
     // array holding data. Stack head is first element of array
     private var data = [T]()
 

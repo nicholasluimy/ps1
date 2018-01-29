@@ -6,7 +6,9 @@
  - Authors: CS3217
  - Date: 2018
  */
-struct Queue<T> {
+public struct Queue<T> {
+    public init() {}
+    
     // array holding data. Queue head is first element of array
     private var data = [T]()
 

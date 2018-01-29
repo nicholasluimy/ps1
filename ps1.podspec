@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ps1'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'test pod for PS1 structures (Queue, Stack) that can be reused in PS2'
 
 # This description is used to generate tags and improve search results.
